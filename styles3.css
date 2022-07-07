@@ -1,0 +1,22 @@
+
+.donation_plan{
+padding-top: 70px;
+margin-left: 35%;
+width:500px;
+text-align: center;
+}
+.styles3_flexible{
+    display: flex;
+    padding-left: 200px;
+    margin-right: 100px;
+}
+.styles3_div{
+    width: 500px;
+    margin: 5px;
+    text-align: justify;
+    background: #FF59591A;
+    padding: 30px;
+}
+#div3_background{
+    background:#dedea8; ;
+}
